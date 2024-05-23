@@ -1,4 +1,4 @@
-# BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation 
+## BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation 
 
 ### ACM Transactions on Graphics (SIGGRAPH'24)
 
